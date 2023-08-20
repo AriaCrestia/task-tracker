@@ -8,4 +8,4 @@ Good for tracking tasks to be done in the moment.
 - end - closes the program. Does not save any data.
 
 # Requirements to run
-- Python
+- Python - you should have Python installed on your device.
