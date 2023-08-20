@@ -6,3 +6,6 @@ Good for tracking tasks to be done in the moment.
 - add - add a task to the list.
 - remove - remove a task from the list by it's numerical position.
 - end - closes the program. Does not save any data.
+
+# Requirements to run
+- Python
