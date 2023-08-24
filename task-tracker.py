@@ -6,7 +6,6 @@ def ShowTasks():
         print("----")
         print("no tasks active.")
     elif (len(taskList) > 0):
-        taskList.sort()
         taskPos = 0
         taskNum = 1
         os.system("clear")
