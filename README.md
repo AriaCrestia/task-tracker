@@ -9,3 +9,4 @@ Good for tracking tasks to be done in the moment.
 
 # Requirements to run
 - Python - you should have Python installed on your device.
+- Tkinter - for the GUI app. Make sure to install it for your OS if it does not run!
